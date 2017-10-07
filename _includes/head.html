@@ -36,9 +36,9 @@
   {% endif %}
   
   <meta content="{{ site.url }}/about" property="article:author">
-  
-  <meta content="http://vypr.space/assets/images/concordia.jpg" property="og:image">
-  
+
+  <meta content="{{ site.url }}/public/mstile-310x310.png" property="og:image"> 
+ 
   {% if page.tags %}
   {% for tag in page.tags %}
   <meta content="{{ tag }}" property="article:tag">
@@ -65,7 +65,7 @@
   <link rel="icon" type="image/png" href="{{ site.baseurl }}/public/favicon-32x32.png" sizes="32x32" />
   <link rel="icon" type="image/png" href="{{ site.baseurl }}/public/favicon-16x16.png" sizes="16x16" />
   <link rel="icon" type="image/png" href="{{ site.baseurl }}/public/favicon-128.png" sizes="128x128" />
-  <meta name="application-name" content="Concordia Novum &middot; A modern public domain translation of Concordia: The Book of Concord"/>
+  <meta name="application-name" content="BibleBot"/>
   <meta name="msapplication-TileColor" content="#FFFFFF" />
   <meta name="msapplication-TileImage" content="{{ site.baseurl }}/public/mstile-144x144.png" />
   <meta name="msapplication-square70x70logo" content="{{ site.baseurl }}/public/mstile-70x70.png" />
