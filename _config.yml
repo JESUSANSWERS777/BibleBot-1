@@ -1,0 +1,17 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+
+# Setup
+title:               BibleBot
+tagline:             'A Discord bot for Bible verses'
+description:         'A Discord bot for Bible verses'
+url:                 https://biblebot.vypr.space
+baseurl:             ''
+
+# About/contact
+author:
+  name:              Elliott Pardee
+  url:               https://vypr.space
+  email:             vypr@vypr.space
