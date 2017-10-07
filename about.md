@@ -21,4 +21,4 @@ Concordia University - Ann Arbor<br>
 ---
 
 ### Special Thanks
-
+**Blubb, Bonaventure Sissokovitch, Buggyrcobra, Coal, Manelic, Raven Melodie, topras.gr, Tuonela, Viva98, xnkmevaou** - for their hard work on helping BibleBot reach the world by translating languages <3
