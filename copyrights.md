@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Copyrights of Bible Versions
+layout: page
 listed: true
 ---
 
