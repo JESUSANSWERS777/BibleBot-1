@@ -1,6 +1,6 @@
 ---
 title: BibleBot
-timezone: UTC
+timezone: America/New_York
 collections:
   posts:
     title: Posts
@@ -12,7 +12,7 @@ permalink: pretty
 tagline: A Discord bot for Bible verses
 description: A Discord bot for Bible verses
 url: https://biblebot.vypr.space
-baseurl: ''
+baseurl: 
 author:
   name: Elliott Pardee
   url: https://vypr.space
