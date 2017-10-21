@@ -17,3 +17,8 @@ author:
   name: Elliott Pardee
   url: https://vypr.space
   email: vypr@vypr.space
+plugins:
+  - jemoji
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-sitemap
